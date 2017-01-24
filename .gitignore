@@ -35,6 +35,8 @@ local.properties
 node_modules/
 npm-debug.log
 
+secret.json
+
 # BUCK
 buck-out/
 \.buckd/
